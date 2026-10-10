@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Henrique Bossle!
 ### 💻 Desenvolvedor Full Stack | PHP • Laravel • React
 
-🎓 Estudante de ADS (5º semestre) | 🎯 **Buscando estágio/vaga Jr. Remota**
+🎓 Estudante de ADS (5º semestre) | 🎯 **Buscando estágio remoto**
 📍 Tramandaí, RS | 🌐 Disponível para remoto
 
 ---
