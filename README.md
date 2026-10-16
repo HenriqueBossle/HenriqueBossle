@@ -45,7 +45,7 @@
 
 
 ### 📌 Projetos em Destaque
-* 🏗️ **[Ícones do Tempo](#)**: Site com CRUD completo, autenticação de usuário único, Front-End moderno, deploy em hospedagem compartilhada. *(Feito para divulgar o trabalho de uma escritora)*. 
+* 📚 **[Ícones do Tempo](#)**: Site com CRUD completo, autenticação de usuário único, Front-End moderno, deploy em hospedagem compartilhada. *(Feito para divulgar o trabalho de uma escritora)*. 
   `React` `Laravel API` `Locaweb` `Cloudinary`
 * 🏗️ **[ClienteObra](#)**: Sistema de gestão de clientes/obras com geração de PDFs e e-mails automáticos. *(Usado em piloto em uma concreteira)*. 
   `React` `Laravel API` `PostgreSQL` `Render`
