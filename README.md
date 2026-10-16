@@ -39,11 +39,14 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![NeuronAI](https://img.shields.io/badge/Neuron--AI-8A2BE2?style=for-the-badge&logo=neuronai&logoColor=white)](#)
+[![Locaweb](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
 
 ---
 
 
 ### 📌 Projetos em Destaque
+* 🏗️ **[Ícones do Tempo](#)**: Site com CRUD completo, autenticação de usuário único, Front-End moderno, deploy em hospedagem compartilhada. *(Feito para divulgar o trabalho de uma escritora)*. 
+  `React` `Laravel API` `Locaweb` `Cloudinary`
 * 🏗️ **[ClienteObra](#)**: Sistema de gestão de clientes/obras com geração de PDFs e e-mails automáticos. *(Usado em piloto em uma concreteira)*. 
   `React` `Laravel API` `PostgreSQL` `Render`
 * 🦸 **[Characters Database](#)**: API REST com CRUD, autenticação e upload de imagens (Cloudinary) + Front-end responsivo. 
