@@ -62,7 +62,7 @@
 
 ### 🎓 Formação & Extras
 * **Análise e Desenvolvimento de Sistemas** — ULBRA (2024 – 2027)
-* **CodeNight** — Unisinos + SAP Labs (2026) | **Coding Dojos** — ULBRA (2026)
+* **CodeNight** — Unisinos + SAP Labs (2026) | **Coding Dojos** — ULBRA (2026) | **DevFest Porto-Alegre 2026** — Faculdade Dom Bosco (2026)
 * **Inglês:** Básico (em andamento)
 
 ---
