@@ -55,6 +55,8 @@
   `Ruby on Rails` `PostgreSQL` `Cloudinary`
 * 💬 **[Nexus Chat](#)**: Chat em tempo real com PHP puro, sessões e polling via AJAX. 
   `PHP` `JavaScript` `MySQL`
+* 🎬 **[Script AI](#)**: Agente de IA feito com NeuronAI para criação de roteiros para vídeos.
+  `Laravel` `React` `PostgreSQL` `NeuronAI`
 
 ---
 
